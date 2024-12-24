@@ -48,8 +48,7 @@
         <div class="jumbotron bg-warning rounded ">
             <div class="container">
                 <h1 class="display-4"><?php echo $topic_name ;?></h1>
-                <p class="lead"><?php echo $topic_desc ;?></p>
-
+                
                 <button class="btn btn-dark"><a class="text-light" href="#reading" role="button">Continue
                         Reading</a></button>
                 </p>
@@ -85,26 +84,14 @@
 
     </div>
 
-    <!--Rrading-->
+    <!--Reading-->
     <div class="container" id="reading">
         <div class="jumbotron jumbotron-fluid bg-warning rounded p-0 ">
             <div class="container">
                 <h1 class="display-4 text-center">Enjoy Reading</h1>
                 <img src=<?php echo $topic_image ;?> class="img-fluid" alt="">
-                <p class="lead pb-3">This is a simple hero unit, a simple jumbotron-style component for calling extra
-                    attention
-                    to featured content or information
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi nulla debitis aut vitae quia beatae
-                    magni ullam facilis velit ex consequuntur, ipsum laborum voluptatum omnis cupiditate reprehenderit
-                    quam sit nam eum veritatis? Vitae, rerum. Ipsam odit dolor repellendus at blanditiis fugiat maiores
-                    perferendis ratione aspernatur minima nam, alias unde dolorum iure! Corrupti, atque perferendis.
-                    Reiciendis id repellat, dolorem possimus tempore magnam, quis laborum minus sint corporis explicabo
-                    aliquid qui velit ex! Quibusdam doloremque, provident cumque neque, nobis quam mollitia vitae,
-                    officia iure alias eius ipsam id eum facere iste ratione dicta libero ut eaque illum ea. Assumenda
-                    nobis explicabo modi.</p>
+                <p class="lead"><?php echo $topic_desc ;?></p>
 
-
-                </p>
             </div>
         </div>
 
