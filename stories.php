@@ -76,7 +76,7 @@
                     <img src="./image/img10.jpg" class="d-block w-100" alt="Second slide">
                 </div>
                 <div class="carousel-item">
-                    <img src="./image/img3.jpg" class="d-block w-100" alt="Third slide">
+                    <img src="./image/img6.jpg" class="d-block w-100" alt="Third slide">
                 </div>
             </div>
 
@@ -106,6 +106,9 @@
 
 
     <?php include './partials/footer.php';?>
+     <!-- Include Bootstrap JavaScript -->
+     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+
 
 </body>
 

@@ -146,7 +146,7 @@
                 Dive into our collection of captivating stories, share your own experiences, and be a part of a
                 community that celebrates the joy of storytelling.
             </p>
-            <a href="stories.php" class="btn">Explore Stories</a>
+            <a href="index.php" class="btn">Explore Stories</a>
         </div>
     </div>
 
